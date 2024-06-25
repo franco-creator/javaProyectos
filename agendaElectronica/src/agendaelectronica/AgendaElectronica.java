@@ -14,7 +14,7 @@ public class AgendaElectronica {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // lo primero que debo de hacer es cambiar la configuracion para que todo este conectado bien y demas
     }
     
 }
